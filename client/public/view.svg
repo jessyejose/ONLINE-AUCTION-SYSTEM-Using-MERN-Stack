@@ -1,0 +1,34 @@
+<?xml version="1.0"?><svg width="433.3333333333333" height="433.3333333333333" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>VIEW button</title>
+ <defs>
+  <linearGradient id="linearGradient1702">
+   <stop stop-color="#ffffff" stop-opacity="0.690722" offset="0" id="stop1703"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop1704"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1697">
+   <stop stop-color="#69db0e" offset="0" id="stop1698"/>
+   <stop stop-color="#397607" offset="1" id="stop1699"/>
+  </linearGradient>
+  <linearGradient y2="466.2785" y1="506.28723" xlink:href="#linearGradient1697" x2="520.57166" x1="520.57166" id="linearGradient1700" gradientUnits="userSpaceOnUse"/>
+  <radialGradient xlink:href="#linearGradient1702" r="15.301119" id="radialGradient1706" gradientUnits="userSpaceOnUse" fy="473.03323" fx="522.89911" cy="481.86633" cx="522.89532"/>
+  <linearGradient y2="505.0845" y1="469.49918" xlink:href="#linearGradient1697" x2="522.94183" x1="522.94183" id="linearGradient1710" gradientUnits="userSpaceOnUse"/>
+  <linearGradient y2="463.47311" y1="183.48366" xlink:href="#linearGradient1702" x2="214.59154" x1="213.82799" id="linearGradient1717" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.553900,0.000000,0.000000,0.643542,-1.017928,2.842171e-14)"/>
+  <linearGradient y2="-Infinity" y1="Infinity" xlink:href="#linearGradient1697" x2="0.434782" x1="0.434782" id="linearGradient1076"/>
+  <linearGradient y2="Infinity" y1="-Infinity" xlink:href="#linearGradient1697" x2="0.491802" x1="0.491802" id="linearGradient1077"/>
+  <linearGradient y2="1.321203" y1="-0.037714" xlink:href="#linearGradient1702" x2="0.482604" x1="0.478621" id="linearGradient1078"/>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g1073">
+    <path fill="url(#linearGradient1076)" fill-rule="nonzero" stroke="url(#linearGradient1077)" stroke-width="1.364453" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" id="path1070" d="m393.368347,203.39006a190.403656,190.403656 0 1 1 -380.807323,0a190.403656,190.403656 0 1 1 380.807323,0z"/>
+    <path opacity="0.9" fill="url(#linearGradient1078)" fill-rule="evenodd" stroke-width="0.25000000pt" id="path1713" d="m341.278168,153.23671c44.367218,-0.966797 -12.400116,-123.152863 -135.680984,-123.802773c-134.561523,-0.687119 -162.095947,110.961357 -140.719452,112.997215c0,0 36.864166,5.062607 71.939575,14.856079c56.472656,15.930817 125.549149,-13.069244 152.768723,-17.2836c30.342529,-4.697876 47.373444,15.392426 51.692139,13.233078z"/>
+   </g>
+  </g>
+  <text style="cursor: move; " transform="matrix(1.00842 0 0 1 -4.10674 0)" xml:space="preserve" text-anchor="middle" font-family="Verdana" font-size="96" id="svg_1" y="245.666656" x="202.666656" stroke-width="0" stroke="#000000" fill="#000000">VIEW</text>
+  <text transform="matrix(1 0 0 1.21429 0 -31.0714)" xml:space="preserve" text-anchor="middle" font-family="Arial" font-size="24" id="svg_2" y="139.666656" x="86.666656" stroke-width="0" stroke="#000000" fill="#000000"/>
+ </g>
+</svg>
